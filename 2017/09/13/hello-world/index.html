@@ -104,7 +104,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2017/09/13/hello-world/" data-id="cj7m31t6z0000tgo0rts9hk2h" class="article-share-link">分享</a>
+      <a data-url="http://yoursite.com/2017/09/13/hello-world/" data-id="cj7m3slc20000foo0d40h5d6r" class="article-share-link">分享</a>
       
       
       
@@ -167,6 +167,8 @@
        
       
       
+           <div id="gitment_comments"></div>
+    
   </div>
  
   
@@ -264,6 +266,22 @@ window.onload = function() {
 
 <!-- author:forvoid begin -->
 <!-- author:forvoid begin -->
+
+  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script> 
+  <script>
+  var gitment = new Gitment({
+    // id: '页面 ID', // 可选。默认为 location.href
+    owner: 'ljgsonx',
+    repo: 'ljgsonx.github.io',
+    oauth: {
+    client_id: 'bb120170dbaf5378f18f',
+    client_secret: 'fd14511fc9f89bf8e1a6fa88116c54bb09c30563',
+    }
+  })
+  gitment.render(document.getElementById("gitment_comments"))
+</script>
+
 
 <!-- author:forvoid end -->
 
