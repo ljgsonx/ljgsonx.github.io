@@ -1,1 +1,1 @@
-[{"title":"Hello World","date":"2017.09.13","uri":"2017/09/13/hello-world/","excerpt":""}]
+[{"title":"Hello World","date":"2017.09.13","uri":"2017/09/13/hello-world/","excerpt":""},{"title":"开博感言","date":"2017.09.16","uri":"2017/09/16/开博感言/","excerpt":""}]
