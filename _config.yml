@@ -7,8 +7,8 @@ title: 金大叔的春天
 subtitle: 
 description: 希望能有一些东西能在这个世界留下痕迹
 author: ljgsonx
-language:
-timezone:
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
